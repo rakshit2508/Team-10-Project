@@ -28,7 +28,7 @@ https://archive.ics.uci.edu/ml/datasets/Concrete+Compressive+Strength
 * Coarse Aggregate
 * Fine Aggregate
 
-All above features measured in kg/$m^3$
+All above features measured in kg/m^3
 
 * Age (in days)
 
@@ -44,6 +44,7 @@ All above features measured in kg/$m^3$
   * Decision Trees
   * Random Forests
   * XGBoost 
+  * Artificial Neural Network
 
 * Evaluation Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
 
