@@ -45,16 +45,16 @@ All above features measured in kg/$m^3$
   * Random Forests
   * XGBoost 
 
-* Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
+* Evaluation Metric - Since the target variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) and R2 Score (Coefficient of Determination) have been used.
 
 ## 4. Results
 
 #### Feature correlation
-![Feature correlation](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/corr.png)
+![Feature correlation](https://github.com/rakshit2508/Team-10-Project/blob/master/imgs/corr.png)
 #### Feature importance
-![Feature importance](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/feat_imp.png)
+![Feature importance](https://github.com/rakshit2508/Team-10-Project/blob/master/imgs/FEATUREIMPORTANCE_CSP.png)
 #### Final Comparison
-![Final Comparison](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/imgs/comparision.png)
+![Final Comparison](https://github.com/rakshit2508/Team-10-Project/blob/master/imgs/RMSE_FINAL_CSP.png)
 
 
 ## 5. References
