@@ -50,11 +50,11 @@ All above features measured in kg/$m^3$
 ## 4. Results
 
 #### Feature correlation
-![Feature correlation](https://github.com/rakshit2508/Team-10-Project/blob/master/imgs/corr.png)
+![Feature correlation](https://github.com/rakshit2508/Team-10-Project/blob/main/imgs/corr.png)
 #### Feature importance
-![Feature importance](https://github.com/rakshit2508/Team-10-Project/blob/master/imgs/FEATUREIMPORTANCE_CSP.png)
+![Feature importance](https://github.com/rakshit2508/Team-10-Project/blob/main/imgs/FEATUREIMPORTANCE_CSP.png)
 #### Final Comparison
-![Final Comparison](https://github.com/rakshit2508/Team-10-Project/blob/master/imgs/RMSE_FINAL_CSP.png)
+![Final Comparison](https://github.com/rakshit2508/Team-10-Project/blob/main/imgs/RMSE_FINAL_CSP.png)
 
 
 ## 5. References
